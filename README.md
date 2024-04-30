@@ -1,3 +1,7 @@
+
+Swagger URL http://localhost:8080/swagger-ui/index.html
+H2 Console http://localhost:8080/h2-ui
+
 # Spring Boot H2 Database CRUD example: Building Rest API with Spring Data JPA
 
 For more detail, please visit:
